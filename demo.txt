@@ -1,3 +1,90 @@
-I'm Jahnavi Pragna 
+🎓 Student Portal - Demo for Jahnavi (3rd BCA)
+👤 Student Profile
 
-from 3rd BCA Sec-2
+Name: Jahnavi Pragna.
+
+Roll Number: 01
+
+Course: BCA (Bachelor of Computer Applications)
+
+Year: 3rd Year
+
+Semester: 5
+
+Email: jahnavi.r@studentcollege.edu
+
+Phone: +91-XXXXXXXXXX
+
+📚 Academic Details
+
+Subjects - Semester 5:
+
+Subject Code	Subject Name	Credits	Attendance
+BCA501	Web Technologies	4	92%
+BCA502	Python Programming	4	95%
+BCA503	Operating Systems	4	89%
+BCA504	Computer Networks	4	91%
+BCA505	Project Work	6	100%
+📝 Internal Marks (CIA)
+
+Web Technologies: 22/25
+
+Python Programming: 24/25
+
+Operating Systems: 21/25
+
+Computer Networks: 23/25
+
+Project Work: 28/30
+
+📅 Timetable (Mon-Fri)
+Time	Monday	Tuesday	Wednesday	Thursday	Friday
+9:00 AM	Python	OS	CN	Web Tech	Python
+10:00 AM	Web Tech	Project Work	Python	OS	CN
+11:00 AM	CN	OS	Web Tech	Python	Project Work
+12:00 PM	Project Work	Web Tech	Project Work	CN	OS
+📄 Assignments
+
+Web Tech: Submitted ✅
+
+Python Programming: Submitted ✅
+
+OS: Due - 18th Aug ❗
+
+Computer Networks: Submitted ✅
+
+💳 Fee Status
+
+Tuition Fee (2025): Paid ✅
+
+Library Fee: Paid ✅
+
+Exam Fee: Not Paid ❗ (Due by: 20th Aug)
+
+📢 Announcements
+
+📌 Placement Drive on 22nd Aug (Wipro, Infosys, TCS)
+
+📌 Last date for Project Submission: 30th Sept
+
+📌 Internal Exams start from 2nd Sept
+
+📥 Downloads
+
+🗎 Syllabus - 5th Sem PDF
+
+🗎 Previous Year Question Papers
+
+🗎 Project Guidelines PDF
+
+🎯 Quick Actions
+
+✅ View Results
+
+📝 Register for Exam
+
+📤 Upload Project
+
+💬 Contact Faculty
+
+📅 Apply for Leave
